@@ -69,11 +69,3 @@ appraise "rails52_paperclip6x" do
   gem 'bootsnap', '~> 1.0', require: false
 end
 
-appraise "rails60_paperclip6x" do
-  gem "rails", "~> 6.0.0"
-  gem "paperclip", "~> 6.0"
-  gem 'capybara'
-  gem 'rspec'
-  gem 'sqlite3', '~> 1.3.0'
-  gem 'bootsnap', '~> 1.0', require: false
-end

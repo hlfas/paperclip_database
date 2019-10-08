@@ -13,4 +13,3 @@ gemfile:
   - gemfiles/rails50_paperclip6x.gemfile
   - gemfiles/rails51_paperclip6x.gemfile
   - gemfiles/rails52_paperclip6x.gemfile
-  - gemfiles/rails60_paperclip6x.gemfile
